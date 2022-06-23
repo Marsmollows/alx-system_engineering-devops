@@ -6,3 +6,4 @@ Shell Basics
 4-empty - create empty file hello
 5-execute - Allow file owner execute permission
 6-multiple_permissions - Assign permissions to different users
+7-everybody - Assign all permissions to all
