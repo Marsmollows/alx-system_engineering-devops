@@ -4,3 +4,4 @@ Shell Basics
 2-groups - Prints the groups the current user is on
 3-new_owner - changes the owner of 'hello' to betty
 4-empty - create empty file hello
+5-execute - Allow file owner execute permission
