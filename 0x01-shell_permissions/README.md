@@ -5,3 +5,4 @@ Shell Basics
 3-new_owner - changes the owner of 'hello' to betty
 4-empty - create empty file hello
 5-execute - Allow file owner execute permission
+6-multiple_permissions - Assign permissions to different users
