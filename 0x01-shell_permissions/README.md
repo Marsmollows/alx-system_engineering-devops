@@ -9,3 +9,4 @@ Shell Basics
 7-everybody - Assign all permissions to all
 8-James_Bond - Assign permission to other users
 9-John_Doe - Assign specific permissions to hello
+10-mirror_permissions - Set the permissions of hello to match olleh
