@@ -13,3 +13,5 @@ Shell Basics
 10-mirror_permissions - Set the permissions of hello to match olleh
 12-directories_permissions - create my_dir with permissions 751
 13-change_group - CHange the group owner of hello to school
+Additional tasks:
+100-change_owner_and_group - change the owner to vincent and group owner to staff
