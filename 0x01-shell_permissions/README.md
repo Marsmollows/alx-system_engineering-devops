@@ -15,3 +15,4 @@ Shell Basics
 13-change_group - CHange the group owner of hello to school
 Additional tasks:
 100-change_owner_and_group - change the owner to vincent and group owner to staff
+101-symbolic_link_permissions - change the permissions for soft links
