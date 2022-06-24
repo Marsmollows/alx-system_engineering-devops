@@ -7,3 +7,4 @@ Shell Basics
 5-execute - Allow file owner execute permission
 6-multiple_permissions - Assign permissions to different users
 7-everybody - Assign all permissions to all
+8-James_Bond - Assign permission to other users
